@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="page">
+<view class="page__hd"></view><!--页头-->
+<view class="page__bd"></view><!--主体-->
+<view class="weui-footer">
+  <view class="weui-footer__links">
+    <navigator url="" class="weui-footer__link">北京积云教育集团</navigator>
+</view>
+<view class="weui-footer__text">Copyright © SmallFour</view>
+</view><!--未设置页脚-->
+</view>
